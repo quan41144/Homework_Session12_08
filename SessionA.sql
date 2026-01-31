@@ -1,1 +1,0 @@
-create database Homework_session12_08;
